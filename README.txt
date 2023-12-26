@@ -1,6 +1,6 @@
 # Benfords Law
 
-```Bash
+```sh
 ❯ pnpm start
 
 > benfords@1.0.0 start /Users/chester/code/benfords
